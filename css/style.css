@@ -65,3 +65,9 @@ footer > * {
 .icon-green {
     color: #00cb00;
 }
+
+.footer-right {
+    background-color: #4a4a4a;
+    color: #ff0000;
+    padding: 0 20px;
+}
